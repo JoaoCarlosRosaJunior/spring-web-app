@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.RestController;
 import com.springapp.metasales.entities.Sale;
 import com.springapp.metasales.services.SaleService;
 import com.springapp.metasales.services.SmsService;
-import com.springapp.metasales.services.SmsService;
 
 @RestController
 @RequestMapping(value = "/sales")
